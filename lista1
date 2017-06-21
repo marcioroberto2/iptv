@@ -1,91 +1,363 @@
 #EXTM3U
-#EXTINF:-1,====&USA&====
-http://tv2iptv.com:8000/live/mouhcine/free1/3578.ts
-#EXTINF:-1,USA_|_WWE_HD
-http://tv2iptv.com:8000/live/mouhcine/free1/3361.ts
-#EXTINF:-1,USA_|_TMN_4_MOVIE
-http://tv2iptv.com:8000/live/mouhcine/free1/3362.ts
-#EXTINF:-1,USA_|_TMN_3_MOVIE
-http://tv2iptv.com:8000/live/mouhcine/free1/3363.ts
-#EXTINF:-1,USA_|_TMN_2_MOVIE
-http://tv2iptv.com:8000/live/mouhcine/free1/3364.ts
-#EXTINF:-1,USA_|_TMN_1_MOVIE
-http://tv2iptv.com:8000/live/mouhcine/free1/3365.ts
-#EXTINF:-1,USA_|_TLC_HD
-http://tv2iptv.com:8000/live/mouhcine/free1/3366.ts
-#EXTINF:-1,USA_|_Poker_Central
-http://tv2iptv.com:8000/live/mouhcine/free1/3367.ts
-#EXTINF:-1,USA_|_PAC_12_WD_HD
-http://tv2iptv.com:8000/live/mouhcine/free1/3369.ts
-#EXTINF:-1,USA_|_PAC-12_Network_HD
-http://tv2iptv.com:8000/live/mouhcine/free1/3368.ts
-#EXTINF:-1,USA_|_NFL_HD
-http://tv2iptv.com:8000/live/mouhcine/free1/3370.ts
-#EXTINF:-1,USA_|_NDTV
-http://tv2iptv.com:8000/live/mouhcine/free1/3371.ts
-#EXTINF:-1,USA_|_NBCSN_HD
-http://tv2iptv.com:8000/live/mouhcine/free1/3372.ts
-#EXTINF:-1,USA_|_Nat_Geo_Wild
-http://tv2iptv.com:8000/live/mouhcine/free1/3373.ts
-#EXTINF:-1,USA_|_Max_West
-http://tv2iptv.com:8000/live/mouhcine/free1/3374.ts
-#EXTINF:-1,USA_|_Fox_Sports_2_HD
-http://tv2iptv.com:8000/live/mouhcine/free1/3375.ts
-#EXTINF:-1,USA_|_Fox_Sports_1_HD
-http://tv2iptv.com:8000/live/mouhcine/free1/3376.ts
-#EXTINF:-1,USA_|_ESPN_Local
-http://tv2iptv.com:8000/live/mouhcine/free1/3377.ts
-#EXTINF:-1,USA_|_A&E_HD
-http://tv2iptv.com:8000/live/mouhcine/free1/3378.ts
-#EXTINF:-1,USA__TBS_HD
-http://tv2iptv.com:8000/live/mouhcine/free1/3358.ts
-#EXTINF:-1,USA__ESPN_2
-http://tv2iptv.com:8000/live/mouhcine/free1/3359.ts
-#EXTINF:-1,USA__BYU_Sports_TV_HD
-http://tv2iptv.com:8000/live/mouhcine/free1/3360.ts
-#EXTINF:-1,USA_TNT_HD
-http://tv2iptv.com:8000/live/mouhcine/free1/3379.ts
-#EXTINF:-1,USA_SYFY_HD
-http://tv2iptv.com:8000/live/mouhcine/free1/3380.ts
-#EXTINF:-1,USA_NAT_GEO_HD
-http://tv2iptv.com:8000/live/mouhcine/free1/3381.ts
-#EXTINF:-1,USA_FOX_NEWS_HD
-http://tv2iptv.com:8000/live/mouhcine/free1/3382.ts
-#EXTINF:-1,USA_ESPN_HD
-http://tv2iptv.com:8000/live/mouhcine/free1/3383.ts
-#EXTINF:-1,USA_DISCCOVERY_HD
-http://tv2iptv.com:8000/live/mouhcine/free1/3384.ts
-#EXTINF:-1,USA_CW_HD
-http://tv2iptv.com:8000/live/mouhcine/free1/3385.ts
-#EXTINF:-1,USA_COMEDY_CENTRAL_HD
-http://tv2iptv.com:8000/live/mouhcine/free1/3386.ts
-#EXTINF:-1,USA_CNN_HD
-http://tv2iptv.com:8000/live/mouhcine/free1/3387.ts
-#EXTINF:-1,USA_CNBC_HD
-http://tv2iptv.com:8000/live/mouhcine/free1/3388.ts
-#EXTINF:-1,USA_CBS
-http://tv2iptv.com:8000/live/mouhcine/free1/3389.ts
-#EXTINF:-1,USA_CA_|_TSN_5*
-http://tv2iptv.com:8000/live/mouhcine/free1/3352.ts
-#EXTINF:-1,USA_CA_|_TSN_4_HD
-http://tv2iptv.com:8000/live/mouhcine/free1/3353.ts
-#EXTINF:-1,USA_CA_|_TSN_3*
-http://tv2iptv.com:8000/live/mouhcine/free1/3354.ts
-#EXTINF:-1,USA_CA_|_TSN_2*
-http://tv2iptv.com:8000/live/mouhcine/free1/3355.ts
-#EXTINF:-1,USA_CA_|_TSN_1*
-http://tv2iptv.com:8000/live/mouhcine/free1/3356.ts
-#EXTINF:-1,USA_CA_|_Sportsnet_360_HD
-http://tv2iptv.com:8000/live/mouhcine/free1/3357.ts
-#EXTINF:-1,USA_CARTOON_NETWORK_HD_
-http://tv2iptv.com:8000/live/mouhcine/free1/3390.ts
-#EXTINF:-1,USA_BRAVO_HD
-http://tv2iptv.com:8000/live/mouhcine/free1/3391.ts
-#EXTINF:-1,USA_ANIMAL_PLANET_HD
-http://tv2iptv.com:8000/live/mouhcine/free1/3392.ts
-#EXTINF:-1,USA_AMC_HD
-http://tv2iptv.com:8000/live/mouhcine/free1/3393.ts
-#EXTINF:-1,USA_ABC_NEWS_HD
-http://tv2iptv.com:8000/live/mouhcine/free1/3394.ts
-#EXTINF:-1,USA_ABC_HD
-http://tv2iptv.com:8000/live/mouhcine/free1/3395.ts
+#EXTINF:-1,CA:L my9
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2423.ts
+#EXTINF:-1,CA:L Lifetime
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2424.ts
+#EXTINF:-1,CA:L HBO Zone HD
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2451.ts
+#EXTINF:-1,CA:L HBO HD
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2453.ts
+#EXTINF:-1,CA:L HBO FAMILY
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2454.ts
+#EXTINF:-1,CA:L Global EDminton
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2426.ts
+#EXTINF:-1,CA:L FX HD
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2434.ts
+#EXTINF:-1,CA:L FOX 43
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2415.ts
+#EXTINF:-1,CA:L ESPN 2 USA
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2460.ts
+#EXTINF:-1,CA:L ESPN
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2459.ts
+#EXTINF:-1,CA:L Discovery Channel
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2440.ts
+#EXTINF:-1,CA:L CW HD
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2411.ts
+#EXTINF:-1,CA:L Comedy Central HD US
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2448.ts
+#EXTINF:-1,CA:L CNN
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2444.ts
+#EXTINF:-1,CA:L CNBC
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2445.ts
+#EXTINF:-1,CA:L CITY HD
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2431.ts
+#EXTINF:-1,CA:L CBS HD
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2416.ts
+#EXTINF:-1,CA:L BRAVO USA
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2432.ts
+#EXTINF:-1,CA:L Animal Planet US
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2442.ts
+#EXTINF:-1,CA:L AMC
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2409.ts
+#EXTINF:-1,CA:L ABC NEWS
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2446.ts
+#EXTINF:-1,CA:L ABC HD
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2410.ts
+#EXTINF:-1,CA:L ABC _HD
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2413.ts
+#EXTINF:-1,CA:L A & E
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2417.ts
+#EXTINF:-1,CA:L .CTV HD
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/2435.ts
+#EXTINF:-1,CA: Vevo 2
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1836.ts
+#EXTINF:-1,CA: Vevo 1
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1835.ts
+#EXTINF:-1,CA: HBO 2-US
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1825.ts
+#EXTINF:-1,CANADA: BET
+http://link.softiptv.com:2500/live/vSfPtYkrjd/rzuO7TKrK5/6135.ts
+#EXTINF:-1,CANADA: BRAVO HD
+http://link.softiptv.com:2500/live/vSfPtYkrjd/rzuO7TKrK5/6134.ts
+#EXTINF:-1,CANADA: CBS HD
+http://link.softiptv.com:2500/live/vSfPtYkrjd/rzuO7TKrK5/6133.ts
+#EXTINF:-1,CANADA: CITY VANCOUVER
+http://link.softiptv.com:2500/live/vSfPtYkrjd/rzuO7TKrK5/6158.ts
+#EXTINF:-1,CANADA: COMEDY GOLD
+http://link.softiptv.com:2500/live/vSfPtYkrjd/rzuO7TKrK5/6157.ts
+#EXTINF:-1,CANADA: COOKING CHANNEL
+http://link.softiptv.com:2500/live/vSfPtYkrjd/rzuO7TKrK5/6132.ts
+#EXTINF:-1,CANADA: COTTAGE LIFE
+http://link.softiptv.com:2500/live/vSfPtYkrjd/rzuO7TKrK5/6156.ts
+#EXTINF:-1,CANADA: CP24
+http://link.softiptv.com:2500/live/vSfPtYkrjd/rzuO7TKrK5/6155.ts
+#EXTINF:-1,CANADA: CTV TORONTO
+http://link.softiptv.com:2500/live/vSfPtYkrjd/rzuO7TKrK5/6154.ts
+#EXTINF:-1,CANADA: DEJA VIEW
+http://link.softiptv.com:2500/live/vSfPtYkrjd/rzuO7TKrK5/6131.ts
+#EXTINF:-1,CANADA: E!
+http://link.softiptv.com:2500/live/vSfPtYkrjd/rzuO7TKrK5/6130.ts
+#EXTINF:-1,CANADA: EVASION
+http://link.softiptv.com:2500/live/vSfPtYkrjd/rzuO7TKrK5/6129.ts
+#EXTINF:-1,CANADA: FOX HD
+http://link.softiptv.com:2500/live/vSfPtYkrjd/rzuO7TKrK5/6128.ts
+#EXTINF:-1,CANADA: FOX NEWS
+http://link.softiptv.com:2500/live/vSfPtYkrjd/rzuO7TKrK5/6153.ts
+#EXTINF:-1,CANADA: FX HD
+http://link.softiptv.com:2500/live/vSfPtYkrjd/rzuO7TKrK5/6127.ts
+#EXTINF:-1,CANADA: FYI
+http://link.softiptv.com:2500/live/vSfPtYkrjd/rzuO7TKrK5/6152.ts
+#EXTINF:-1,CANADA: G4
+http://link.softiptv.com:2500/live/vSfPtYkrjd/rzuO7TKrK5/6151.ts
+#EXTINF:-1,CANADA: GOLF CHANNEL
+http://link.softiptv.com:2500/live/vSfPtYkrjd/rzuO7TKrK5/6126.ts
+#EXTINF:-1,CANADA: GSN
+http://link.softiptv.com:2500/live/vSfPtYkrjd/rzuO7TKrK5/6150.ts
+#EXTINF:-1,CANADA: HISTORY HD
+http://link.softiptv.com:2500/live/vSfPtYkrjd/rzuO7TKrK5/6125.ts
+#EXTINF:-1,CANADA: MOVIE TIME
+http://link.softiptv.com:2500/live/vSfPtYkrjd/rzuO7TKrK5/6149.ts
+#EXTINF:-1,CANADA: MTV CANADA
+http://link.softiptv.com:2500/live/vSfPtYkrjd/rzuO7TKrK5/6123.ts
+#EXTINF:-1,CANADA: NBC HD
+http://link.softiptv.com:2500/live/vSfPtYkrjd/rzuO7TKrK5/6121.ts
+#EXTINF:-1,CANADA: NICK JR
+http://link.softiptv.com:2500/live/vSfPtYkrjd/rzuO7TKrK5/6120.ts
+#EXTINF:-1,CANADA: OLN
+http://link.softiptv.com:2500/live/vSfPtYkrjd/rzuO7TKrK5/6148.ts
+#EXTINF:-1,CANADA: PEACH TREE TV
+http://link.softiptv.com:2500/live/vSfPtYkrjd/rzuO7TKrK5/6147.ts
+#EXTINF:-1,CANADA: RDI
+http://link.softiptv.com:2500/live/vSfPtYkrjd/rzuO7TKrK5/6146.ts
+#EXTINF:-1,CANADA: RDS 2
+http://link.softiptv.com:2500/live/vSfPtYkrjd/rzuO7TKrK5/6145.ts
+#EXTINF:-1,CANADA: SILVER SCREEN TV
+http://link.softiptv.com:2500/live/vSfPtYkrjd/rzuO7TKrK5/6144.ts
+#EXTINF:-1,CANADA: SLICE
+http://link.softiptv.com:2500/live/vSfPtYkrjd/rzuO7TKrK5/6143.ts
+#EXTINF:-1,CANADA: SPORTS NET WORLD HD
+http://link.softiptv.com:2500/live/vSfPtYkrjd/rzuO7TKrK5/6115.ts
+#EXTINF:-1,CANADA: TELETOON
+http://link.softiptv.com:2500/live/vSfPtYkrjd/rzuO7TKrK5/6114.ts
+#EXTINF:-1,CANADA: TRAVEL CHANNEL
+http://link.softiptv.com:2500/live/vSfPtYkrjd/rzuO7TKrK5/6113.ts
+#EXTINF:-1,CANADA: TREE HOUSE SD
+http://link.softiptv.com:2500/live/vSfPtYkrjd/rzuO7TKrK5/6138.ts
+#EXTINF:-1,CANADA: VRAK TV
+http://link.softiptv.com:2500/live/vSfPtYkrjd/rzuO7TKrK5/6112.ts
+#EXTINF:-1,CANADA: W NETWORK
+http://link.softiptv.com:2500/live/vSfPtYkrjd/rzuO7TKrK5/6111.ts
+#EXTINF:-1,CANADA: WORLD FISHING
+http://link.softiptv.com:2500/live/vSfPtYkrjd/rzuO7TKrK5/6110.ts
+#EXTINF:-1,CANADA: YTV
+http://link.softiptv.com:2500/live/vSfPtYkrjd/rzuO7TKrK5/6137.ts
+#EXTINF:-1,CANADA|MUCH MUSIC
+http://link.softiptv.com:2500/live/vSfPtYkrjd/rzuO7TKrK5/6122.ts
+#EXTINF:-1,Canale 5 HD
+http://link.softiptv.com:2500/live/vSfPtYkrjd/rzuO7TKrK5/1609.ts
+#EXTINF:-1,CA : ABC HD
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22296.ts
+#EXTINF:-1,CA : abc spark
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22295.ts
+#EXTINF:-1,CA : BET -  black entertainment television
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22294.ts
+#EXTINF:-1,CA : Bnn HDTV
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22293.ts
+#EXTINF:-1,CA : Bravo HDTV
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22292.ts
+#EXTINF:-1,CA : CartoonNetwork
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22291.ts
+#EXTINF:-1,CA : cbc toronto
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22290.ts
+#EXTINF:-1,CA : CHCH HD
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22289.ts
+#EXTINF:-1,CA : City TV Vancouver
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22288.ts
+#EXTINF:-1,CA : Comedy Gold TV
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22287.ts
+#EXTINF:-1,CA : cottage life
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22286.ts
+#EXTINF:-1,CA : country music television
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22285.ts
+#EXTINF:-1,CA : CP24 TV
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22284.ts
+#EXTINF:-1,CA : ctv toronto
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22283.ts
+#EXTINF:-1,CA : deja view
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22282.ts
+#EXTINF:-1,CA : E! HD
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22281.ts
+#EXTINF:-1,CA : fox 25 hd
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22280.ts
+#EXTINF:-1,CA : fox news
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22279.ts
+#EXTINF:-1,CA : fxx hd
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22278.ts
+#EXTINF:-1,CA : fyi
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22277.ts
+#EXTINF:-1,CA : G4 HD
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22276.ts
+#EXTINF:-1,CA : golf channel
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22275.ts
+#EXTINF:-1,CA : gsn
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22274.ts
+#EXTINF:-1,CA : HBO 2_CA
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22273.ts
+#EXTINF:-1,CA : HBO_CA
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22272.ts
+#EXTINF:-1,CA : History_HD
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22271.ts
+#EXTINF:-1,CA : ici artv
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22270.ts
+#EXTINF:-1,CA : ici rdi
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22269.ts
+#EXTINF:-1,CA : Movietime TV
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22268.ts
+#EXTINF:-1,CA : MTV Canada HD
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22267.ts
+#EXTINF:-1,CA : MTV_CANADA
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22266.ts
+#EXTINF:-1,CA : much music
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22265.ts
+#EXTINF:-1,CA : NBA TV_CA
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22264.ts
+#EXTINF:-1,CA : nick
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22263.ts
+#EXTINF:-1,CA : omni 1
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22262.ts
+#EXTINF:-1,CA : omni 2
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22261.ts
+#EXTINF:-1,CA : own (oprah winfrew network)
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22260.ts
+#EXTINF:-1,CA : Peachtree HDTV
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22259.ts
+#EXTINF:-1,CA : rds 2
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22258.ts
+#EXTINF:-1,CA : RDS2 HD TV
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22257.ts
+#EXTINF:-1,CA : shopping channel
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22256.ts
+#EXTINF:-1,CA : silver screen classics
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22255.ts
+#EXTINF:-1,CA : slice
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22254.ts
+#EXTINF:-1,CA : Spike HD
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22253.ts
+#EXTINF:-1,CA : Sportnet Ontario HD
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22252.ts
+#EXTINF:-1,CA : Sportnet Pacific HD
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22251.ts
+#EXTINF:-1,CA : Sportsnet One HD
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22250.ts
+#EXTINF:-1,CA : Sportsnet West HD
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22249.ts
+#EXTINF:-1,CA : sportsnet world hd
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22248.ts
+#EXTINF:-1,CA : Teletoon HD
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22247.ts
+#EXTINF:-1,CA : TMN TV
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22246.ts
+#EXTINF:-1,CA : Travel Channel HD
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22245.ts
+#EXTINF:-1,CA : tree house
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22244.ts
+#EXTINF:-1,CA : Vrak TV HD
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22243.ts
+#EXTINF:-1,CA : w network
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22242.ts
+#EXTINF:-1,CA : World Fishing TV
+http://iptv.iptvthebest.net:15000/live/hmvaefyk/BlH7k867du/22241.ts
+#EXTINF:-1,CA : ABC HD
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22296.ts
+#EXTINF:-1,CA : abc spark
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22295.ts
+#EXTINF:-1,CA : BET -  black entertainment television
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22294.ts
+#EXTINF:-1,CA : Bnn HDTV
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22293.ts
+#EXTINF:-1,CA : Bravo HDTV
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22292.ts
+#EXTINF:-1,CA : CartoonNetwork
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22291.ts
+#EXTINF:-1,CA : cbc toronto
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22290.ts
+#EXTINF:-1,CA : CHCH HD
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22289.ts
+#EXTINF:-1,CA : City TV Vancouver
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22288.ts
+#EXTINF:-1,CA : Comedy Gold TV
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22287.ts
+#EXTINF:-1,CA : cottage life
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22286.ts
+#EXTINF:-1,CA : country music television
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22285.ts
+#EXTINF:-1,CA : CP24 TV
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22284.ts
+#EXTINF:-1,CA : ctv toronto
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22283.ts
+#EXTINF:-1,CA : deja view
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22282.ts
+#EXTINF:-1,CA : E! HD
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22281.ts
+#EXTINF:-1,CA : fox 25 hd
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22280.ts
+#EXTINF:-1,CA : fox news
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22279.ts
+#EXTINF:-1,CA : fxx hd
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22278.ts
+#EXTINF:-1,CA : fyi
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22277.ts
+#EXTINF:-1,CA : G4 HD
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22276.ts
+#EXTINF:-1,CA : golf channel
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22275.ts
+#EXTINF:-1,CA : gsn
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22274.ts
+#EXTINF:-1,CA : HBO 2_CA
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22273.ts
+#EXTINF:-1,CA : HBO_CA
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22272.ts
+#EXTINF:-1,CA : History_HD
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22271.ts
+#EXTINF:-1,CA : ici artv
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22270.ts
+#EXTINF:-1,CA : ici rdi
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22269.ts
+#EXTINF:-1,CA : Movietime TV
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22268.ts
+#EXTINF:-1,CA : MTV Canada HD
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22267.ts
+#EXTINF:-1,CA : MTV_CANADA
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22266.ts
+#EXTINF:-1,CA : much music
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22265.ts
+#EXTINF:-1,CA : NBA TV_CA
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22264.ts
+#EXTINF:-1,CA : nick
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22263.ts
+#EXTINF:-1,CA : omni 1
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22262.ts
+#EXTINF:-1,CA : omni 2
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22261.ts
+#EXTINF:-1,CA : own (oprah winfrew network)
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22260.ts
+#EXTINF:-1,CA : Peachtree HDTV
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22259.ts
+#EXTINF:-1,CA : rds 2
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22258.ts
+#EXTINF:-1,CA : RDS2 HD TV
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22257.ts
+#EXTINF:-1,CA : shopping channel
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22256.ts
+#EXTINF:-1,CA : silver screen classics
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22255.ts
+#EXTINF:-1,CA : slice
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22254.ts
+#EXTINF:-1,CA : Spike HD
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22253.ts
+#EXTINF:-1,CA : Sportnet Ontario HD
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22252.ts
+#EXTINF:-1,CA : Sportnet Pacific HD
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22251.ts
+#EXTINF:-1,CA : Sportsnet One HD
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22250.ts
+#EXTINF:-1,CA : Sportsnet West HD
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22249.ts
+#EXTINF:-1,CA : sportsnet world hd
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22248.ts
+#EXTINF:-1,CA : Teletoon HD
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22247.ts
+#EXTINF:-1,CA : TMN TV
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22246.ts
+#EXTINF:-1,CA : Travel Channel HD
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22245.ts
+#EXTINF:-1,CA : tree house
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22244.ts
+#EXTINF:-1,CA : Vrak TV HD
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22243.ts
+#EXTINF:-1,CA : w network
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22242.ts
+#EXTINF:-1,CA : World Fishing TV
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22241.ts
+#EXTINF:-1,CA :YTV HD
+http://iptv.iptvthebest.net:15000/live/oejr9weyfhon/088wemfe/22240.ts
